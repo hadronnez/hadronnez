@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.png" width="100%" />
 
-<img src="./assets/avatar.png" width="160" style="border-radius:50%; margin-top:-80px;" />
-
 # Hi, I'm Adrián Ordóñez 👋
 
 </div>
