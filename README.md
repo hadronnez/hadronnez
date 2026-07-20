@@ -1,61 +1,138 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
 
 # Hi, I'm Adrián Ordóñez 👋
+
+### Physics · Climate Science · Scientific Machine Learning
+
+<img src="./assets/banner.png" width="100%" />
+
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌍 About Me
 
-I'm a developer passionate about building software, learning new technologies, 
-and turning ideas into practical solutions.
+I'm a physicist and climate scientist interested in the intersection between:
 
-- 💻 Interested in software development and modern technologies
-- 🌱 Always learning and improving my skills
-- 🔭 Building personal projects and exploring new ideas
-- ⚡ I enjoy solving problems through code
+- 🌎 Earth System Science
+- 📈 Data-driven modelling of complex physical systems
+- 🔬 Scientific Machine Learning
+
+My work focuses on developing AI methods to understand, simulate, and predict Earth system processes, with applications in climate modelling, forecasting, energy systems, and climate risk assessment.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research Interests
 
-### Languages
+### 🌦 Climate & Earth System Modelling
+
+- Climate dynamics
+- Weather and climate forecasting
+- Climate variability
+- Extreme events
+- Climate risk modelling
+- Hybrid physical–AI models
+
+
+### 📊 Scientific Machine Learning
+
+- Time series forecasting
+- Probabilistic prediction
+- Uncertainty quantification
+- Large-scale scientific datasets
+- Energy and climate applications
+
+---
+
+## 🛠️ Technical Stack
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 
-### Tools & Frameworks
+---
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+
+### Tools & Research Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Scientific Data & Computing
+
+- **pandas** — Data manipulation and analysis
+- **xarray** — Multi-dimensional labelled datasets for Earth system data
+- **zarr** — Scalable storage for large scientific datasets
+
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name
-Description of the project and what problem it solves.
+### ⚡ GRIPS2026 — Energy Forecasting
 
-[View Repository →](https://github.com/)
+Deep learning models for energy time series forecasting and decision-support applications.
 
-### 🔹 Project Name
-Description of another project.
+This project explores the use of machine learning approaches for:
 
-[View Repository →](https://github.com/)
+- Energy demand forecasting
+- Time series modelling
+- Predictive analytics for energy systems
+- Evaluation of forecasting performance
+
+Repository:
+
+[GRIPS2026_project →](https://github.com/hadronnez/GRIPS2026-project)
 
 ---
 
-## 📊 GitHub Stats
+### 🧬 Dynamical Systems & Climate Variability — Master's Thesis
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+Data-driven discovery and modelling of climate dynamics using sparse regression and system identification techniques.
+
+The project explores:
+
+- Dynamical systems approaches
+- Sparse Identification of Nonlinear Dynamics (SINDy)
+- Data-driven discovery of governing equations
+- Climate variability and long-term oscillations
+
+Repository:
+
+[Master Thesis Project →](https://github.com/hadronnez/TFM-Glacial_interglacial_symbolic_regression)
+
+---
+
+## 📚 Current Exploration
+
+#### 🌍 Climate AI Lab
+
+A personal research environment for exploring Artificial Intelligence methods for Earth System Science.
+
+Includes:
+
+- Scientific ML methods
+- Literature notes
+- Experiments and prototypes
+- Reusable modelling components
+- Research ideas and workflows
+
+---
+
+   
 
 ---
 
@@ -66,13 +143,3 @@ Description of another project.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_WEBSITE)
-
----
-
-⭐ Thanks for visiting my profile!
