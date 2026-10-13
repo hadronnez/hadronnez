@@ -7,7 +7,7 @@ My background spans research & operational environments at **Met Éireann** and 
 - ⚡ **High-Performance Architecture:** Low-level dynamics (C++/Fortran), high-productivity ecosystems (Julia/Python), and HPC containerized infrastructure (Docker).
 - 🔬 **Scientific Machine Learning (SciML):** Hybrid physical–AI modeling, system identification (SINDy), and probabilistic forecasting for climate risk and energy grid analytics.
 
-✍️ **Writing & Open-Source:** I publish technical deep-dives on climate modeling on my **[Substack](https://ajourneythroughclimatemodelling.substack.com/)** (with companion code in **[Github](https://github.com/hadronnez/ajourneythroughclimatemodelling)**).
+✍️ **Writing & Open-Source:** I publish technical deep-dives on climate modeling on my **[Substack](https://ajourneythroughclimatemodelling.substack.com/)** (with companion code in:**[GitHub - A Journey Through Climate Modelling](https://github.com/hadronnez/ajourneythroughclimatemodelling)**.
 
 ---
 
