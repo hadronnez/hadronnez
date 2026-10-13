@@ -7,7 +7,7 @@ My background spans research & operational environments at **Met Éireann** and 
 - ⚡ **High-Performance Architecture:** Low-level dynamics (C++/Fortran), high-productivity ecosystems (Julia/Python), and HPC containerized infrastructure (Docker).
 - 🔬 **Scientific Machine Learning (SciML):** Hybrid physical–AI modeling, system identification (SINDy), and probabilistic forecasting for climate risk and energy grid analytics.
 
-✍️ **Writing & Open-Source:** I publish technical deep-dives on climate modeling on my **[Substack](https://ajourneythroughclimatemodelling.substack.com/)** (with companion code in:**[GitHub - A Journey Through Climate Modelling](https://github.com/hadronnez/ajourneythroughclimatemodelling)**.
+✍️ **Writing & Open-Source:** I publish technical deep-dives on climate modeling on my **[Substack](https://ajourneythroughclimatemodelling.substack.com/)** (with companion code in: **[GitHub - A Journey Through Climate Modelling](https://github.com/hadronnez/ajourneythroughclimatemodelling)**.
 
 ---
 
@@ -36,21 +36,25 @@ My background spans research & operational environments at **Met Éireann** and 
 
 # 📌 Featured Projects & Architectures
 
-### ⚡ GRIPS2026 — Energy Forecasting & Decision Support
-*Deep learning architectures for probabilistic energy time-series forecasting and grid risk analytics.*
-- **Key Focus:** Predictive time-series modeling, uncertainty quantification, and decision-support pipelines.
-- 🔗 **[GRIPS2026_project]([https://github.com/YOUR_USERNAME/GRIPS2026_project](https://github.com/hadronnez/GRIPS2026-project))**
+### ⚡ MIDAS — Profit-Aware Multi-Source Energy Forecasting & Storage Dispatch (GRIPS 2026)
+*Three-stage framework for day-ahead electricity price forecasting and automated battery storage arbitrage, developed at Nanjing University for the 4th World AI4S Competition.*
+- **Key Architecture:** 
+  - **Stage 1:** Bias correction of raw meteorological and market forecasts.
+  - **Stage 2:** Day-ahead electricity price forecasting (HGBR vs. Task-based End-to-End DL).
+  - **Stage 3:** Automated battery storage dispatch optimization for profit maximization.
+- **Key Insight:** Demonstrated that profit-aware models outperform traditional RMSE-aware models—proving that lower forecast error does not strictly imply higher market arbitrage value.
+- 🔗 **[GRIPS2026-project](https://github.com/hadronnez/GRIPS2026-project)**
 
-### 🧬 Data-Driven Dynamical Systems — Master's Thesis
-*Discovery and modeling of non-linear climate dynamics using sparse regression and system identification.*
-- **Key Focus:** Sparse Identification of Nonlinear Dynamics (SINDy), reduced-order modeling of climate variability, and equation discovery from high-dimensional geophysical data.
-- 🔗 **[Master_Thesis_Project]([https://github.com/YOUR_USERNAME/Master_Thesis_Project](https://github.com/hadronnez/TFM-Glacial_interglacial_symbolic_regression))**
+### 🧬 Characterizing Glacial–Interglacial Variability with Symbolic Regression (Master's Thesis)
+*Equation discovery and reduced-order modeling of non-linear paleoclimate transitions using sparse regression and system identification.*
+- **Key Method & Physics:**
+  - Applied **Sparse Identification of Nonlinear Dynamics (SINDy)** and symbolic regression to discover governing non-linear differential equations directly from paleoclimate data.
+  - Modeled non-linear phase transitions, orbital forcing responses, and low-dimensional attractor dynamics governing Quaternary glacial–interglacial cycles.
+- 🔗 **[GitHub Repository](https://github.com/hadronnez/TFM-Glacial_interglacial_symbolic_regression)** | 📄 **[Read Full Thesis (Institutional Repository)](https://hdl.handle.net/20.500.14352/140403)**
 
 ---
 
 # 🌐 Connect With Me
 
-- 💼 **LinkedIn:** **[linkedin.com]([https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/adrian-ordonez-sanmartin/?locale=es))**
-- ✉️ **Email:** **[your.email@domain.com](mailto:your.email@domain.com)**
-- 📰 **Substack:** **[YOUR-SUBSTACK-LINK.substack.com](https://YOUR-SUBSTACK-LINK.substack.com)**
-- 🐙 **GitHub:** **[github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/adrian-ordonez-sanmartin/?locale=es))**
+- ✉️ **[Email](mailto:adrianordonez.dev@gmail.com)**
