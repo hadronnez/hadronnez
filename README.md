@@ -45,7 +45,7 @@ My background spans research & operational environments at **Met Éireann** and 
 - **Key Insight:** Demonstrated that profit-aware models outperform traditional RMSE-aware models—proving that lower forecast error does not strictly imply higher market arbitrage value.
 - 🔗 **[GRIPS2026-project](https://github.com/hadronnez/GRIPS2026-project)**
 
-### 🧬 Characterizing Glacial–Interglacial Variability with Symbolic Regression (Master's Thesis)
+### ❄️ Characterizing Glacial–Interglacial Variability with Symbolic Regression (Master's Thesis)
 *Equation discovery and reduced-order modeling of non-linear paleoclimate transitions using sparse regression and system identification.*
 - **Key Method & Physics:**
   - Applied **Sparse Identification of Nonlinear Dynamics (SINDy)** and symbolic regression to discover governing non-linear differential equations directly from paleoclimate data.
@@ -56,5 +56,5 @@ My background spans research & operational environments at **Met Éireann** and 
 
 # 🌐 Connect With Me
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/adrian-ordonez-sanmartin/?locale=es))**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/adrian-ordonez-sanmartin/?locale=es)**
 - ✉️ **[Email](mailto:adrianordonez.dev@gmail.com)**
