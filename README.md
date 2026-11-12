@@ -1,4 +1,4 @@
-# 🌍 About Me
+# About Me
 
 Physicist with an interest in computing, software development and scientific modelling.
 
@@ -18,8 +18,6 @@ My interests range from numerical modelling and machine learning to software eng
 
 ## Writing
 [A Journey Through Climate Modelling](https://ajourneythroughclimatemodelling.substack.com/) (Substack), with [companion code](https://github.com/hadronnez/ajourneythroughclimatemodelling).
-
-[LinkedIn](https://www.linkedin.com/in/adrian-ordonez-sanmartin/?locale=es) · [Email](mailto:adrianordonez.dev@gmail.com)
 
 # 🌐 Connect With Me
 
